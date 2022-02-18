@@ -1,0 +1,17 @@
+Loading net-file from 'F:\File\LuSTScenario\scenario\lust.net.xml' ... done (1164ms).
+Loading additional-files from 'F:\File\LuSTScenario\scenario\vtypes.add.xml' ... done (1ms).
+Loading additional-files from 'F:\File\LuSTScenario\scenario\busstops.add.xml' ... done (16ms).
+Loading additional-files from 'F:\File\LuSTScenario\scenario\e1detectors.add.xml' ... done (44ms).
+Loading additional-files from 'F:\File\LuSTScenario\scenario\lust.poly.xml' ... done (375ms).
+Loading additional-files from 'F:\File\LuSTScenario\scenario\tll.static.xml' ... done (13ms).
+Loading done.
+Simulation ended at time: 0.00
+Performance: 
+ Duration: 14.03s
+ Real time factor: 0
+ UPS: 0.000000
+Vehicles: 
+ Inserted: 0 (Loaded: 7)
+ Running: 0
+ Waiting: 0
+

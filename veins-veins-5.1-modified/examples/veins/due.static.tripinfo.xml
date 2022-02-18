@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 12/21/21 09:48:11 by Eclipse SUMO GUI Version 1.8.0
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="F:\File\LuSTScenario\scenario\lust.net.xml"/>
+        <route-files value="F:\File\LuSTScenario\scenario\buslines.rou.xml,F:\File\LuSTScenario\scenario\DUERoutes/local.static.0.rou.xml,F:\File\LuSTScenario\scenario\DUERoutes/local.static.1.rou.xml,F:\File\LuSTScenario\scenario\DUERoutes/local.static.2.rou.xml,F:\File\LuSTScenario\scenario\transit.rou.xml"/>
+        <additional-files value="F:\File\LuSTScenario\scenario\vtypes.add.xml,F:\File\LuSTScenario\scenario\busstops.add.xml,F:\File\LuSTScenario\scenario\e1detectors.add.xml,F:\File\LuSTScenario\scenario\lust.poly.xml,F:\File\LuSTScenario\scenario\tll.static.xml"/>
+    </input>
+
+    <output>
+        <summary-output value="F:\File\LuSTScenario\scenario\due.static.summary.xml"/>
+        <tripinfo-output value="F:\File\LuSTScenario\scenario\due.static.tripinfo.xml"/>
+    </output>
+
+    <time>
+        <begin value="0"/>
+        <step-length value="1"/>
+    </time>
+
+    <processing>
+        <ignore-junction-blocker value="20"/>
+        <time-to-teleport value="600"/>
+        <max-depart-delay value="600"/>
+    </processing>
+
+    <routing>
+        <routing-algorithm value="dijkstra"/>
+    </routing>
+
+    <report>
+        <verbose value="true"/>
+        <log value="F:\File\LuSTScenario\scenario\due.static.log"/>
+    </report>
+
+    <gui_only>
+        <tracker-interval value="1"/>
+    </gui_only>
+
+</configuration>
+-->
+
+<tripinfos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/tripinfo_file.xsd">
+</tripinfos>
