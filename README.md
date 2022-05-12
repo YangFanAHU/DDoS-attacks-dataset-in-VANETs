@@ -7,4 +7,4 @@ Part 1 is simulation in urban senario. Part 2 is highway.
 
 [Download Link2](https://pan.baidu.com/s/1LJ_YVno6eWXiYKGa40COCg) key: n9cv
 
-Part 2 will be upload soon.
+Part 2 is uploading now.
